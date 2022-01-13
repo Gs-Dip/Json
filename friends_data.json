@@ -1,0 +1,13 @@
+{
+    "friends":[
+        {
+            "name":"dip ghosh",
+            "age":20
+        },
+
+        {
+            "name":"dibbo ghosh",
+            "age":22
+        }
+    ]
+}

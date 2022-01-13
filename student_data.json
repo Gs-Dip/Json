@@ -1,0 +1,47 @@
+{
+    "students" :[
+    
+        {
+            "name" : "dip ghosh",
+            "middlename":null,
+            "age":25,
+            "cgpa":3.44,
+            "isregistered":true,
+            "language":["bangali","english","hindi"],
+            "friends":[
+                {
+                    "name":"dip ghosh",
+                    "age":25
+                },
+    
+                {
+                    "name":"dibbo ghosh",
+                    "age":28
+                }
+            ]
+        },
+    
+    
+        {
+            "name" : "tanmoy ghosh",
+            "middlename":null,
+            "age":30,
+            "cgpa":4.00,
+            "isregistered":false,
+            "language":["bangali","finnish","english","hindi"],
+            "friends":[
+                {
+                    "name":"shanto ghosh",
+                    "age":20
+                },
+    
+                {
+                    "name":"bappa ghosh",
+                    "age":35
+                }
+            ]
+        }
+    
+    
+    ]    
+}
